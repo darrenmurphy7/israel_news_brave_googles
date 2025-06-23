@@ -13,7 +13,6 @@ $boost=4,site=gov.il/en/departments/ministry_of_foreign_affairs/govil-landing-pa
 $boost=4,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
 $boost=4,site=haaretz.com
 $boost=10,site=idf.il/en/
-$boost=10,site=x.com/IDF
 $boost=4,site=iltv.tv
 $boost=4,site=inunitywerebuild.com
 $boost=4,site=iranintl.com/en
@@ -39,3 +38,5 @@ $boost=4,site=seetheholyland.net/map-of-the-holy-land/
 $boost=4,site=tbnisrael.com
 $boost=4,site=thejewishindependent.com.au
 $boost=4,site=timesofisrael.com
+$boost=10,site=x.com/IDF
+$boost=4,site=x.com/KremlinRussia_E
