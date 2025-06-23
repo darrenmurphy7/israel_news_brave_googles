@@ -1,2 +1,2 @@
-israel_news_brave_google
+News from israel (brave_goggle)
 Licence = Unknown, still learning!
