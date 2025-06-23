@@ -5,13 +5,22 @@
 
 $boost=4,site=i24news.tv/en
 $boost=4,site=israel365news.com
+$boost=4,site=australianjewishnews.com
 $boost=4,site=haaretz.com
-$boost=4,site=israelhayom.com
+$boost=4,site=aish.com
 $boost=4,site=iltv.tv
-$boost=4, site=iranintl.com/en
+$boost=4,site=inunitywerebuild.com
+$boost=4,site=iranintl.com/en
+$boost=4,site=israelhayom.com
 $boost=3,site=israelnationalnews.com
+$boost=4,site=jesusavesisrael.org
+$boost=3,site=jewishjournal.com
+$boost=3,site=jewishvirtuallibrary.org
 $boost=4,site=jpost.com
-$boost=4, site=jpost.com/israel-news/defense-news/2025-06-21/live-updates-858458
+$boost=4,site=jpost.com/israel-news/defense-news/2025-06-21/live-updates-858458
+$boost=4,site=loveisrael.org
 $boost=4,site=pulseofisrael.com
+$boost=4,site=seetheholyland.net/map-of-the-holy-land/
+$boost=4,site=tbnisrael.com
 $boost=4,site=timesofisrael.com
 $boost=4,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
