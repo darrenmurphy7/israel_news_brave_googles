@@ -1,19 +1,12 @@
-! name: Israel_news_brave_google
-! description: News websites from Israel
+! name: News from Israel
+! description: News from Israel
 ! public: true
 ! author: Darren Murphy
 
-! name: News from the Left
-! description: Rank results to boost content from sources with an AllSides Media Bias Rating™ of Left or Lean Left.
-! public: true
-! author: AllSides.com
-! homepage: https://www.allsides.com/
-! avatar: #2e64a0
-
-/section/opinion^$boost=4,site=nytimes.com
-$boost=4,site=vox.com
-$boost=4,site=thedailybeast.com
-$boost=4,site=mediamatters.org
+/section/opinion^$boost=4,site=www.i24news.tv/en
+$boost=4,site=www.i24news.tv/en
+$boost=4,site=www.jpost.com
+$boost=4,site=www.timesofisrael.com
 $boost=4,site=huffpost.com
 $boost=4,site=cnn.com
 $boost=4,site=care2.com
