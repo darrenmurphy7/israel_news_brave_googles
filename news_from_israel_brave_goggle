@@ -3,11 +3,12 @@
 ! public: true
 ! author: Darren Murphy
 
-$boost=4,site=i24news.tv
+$boost=4,site=i24news.tv/en
 $boost=4,site=israel365news.com
 $boost=4,site=haaretz.com
 $boost=4,site=israelhayom.com
 $boost=4,site=iltv.tv
+$boost=4, site=iranintl.com/en
 $boost=3,site=israelnationalnews.com
 $boost=4,site=jpost.com
 $boost=4, site=jpost.com/israel-news/defense-news/2025-06-21/live-updates-858458
