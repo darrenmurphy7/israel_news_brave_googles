@@ -9,8 +9,8 @@ $boost=4,site=aish.com
 $boost=4,site=al-monitor.com
 $boost=4,site=australianjewishnews.com
 $boost=4,site=clevelandjewishnews.com
-$boost=4,site=gov.il/en/departments/ministry_of_foreign_affairs/govil-landing-page
-$boost=4,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
+$boost=4,site=gov.il
+! $boost=4,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
 $boost=4,site=haaretz.com
 $boost=10,site=idf.il/en/
 $boost=4,site=iltv.tv
