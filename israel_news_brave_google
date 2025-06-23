@@ -3,7 +3,6 @@
 ! public: true
 ! author: Darren Murphy
 
-/section/opinion^$boost=4,site=www.i24news.tv/en
 $boost=4,site=www.i24news.tv/en
 $boost=4,site=www.jpost.com
 $boost=4,site=www.timesofisrael.com
