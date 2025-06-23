@@ -9,7 +9,8 @@ $boost=1,site=haaretz.com
 $boost=1,site=israelhayom.com
 $boost=1,site=iltv.tv
 $boost=1,site=israelnationalnews.com
-$boost=1,site=jpost.com
+$boost=4,site=jpost.com
+$boost=1, site=jpost.com/israel-news/defense-news/2025-06-21/live-updates-858458
 $boost=1,site=pulseofisrael.com
 $boost=1,site=timesofisrael.com
 $boost=1,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
