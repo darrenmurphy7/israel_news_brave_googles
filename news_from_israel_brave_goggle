@@ -4,6 +4,7 @@
 ! author: murenti
 
 $boost=10,site=i24news.tv
+/en^$boost=10,site=i24news.tv
 $boost=10,site=israel365news.com
 $boost=4,site=aish.com
 $boost=4,site=al-monitor.com
