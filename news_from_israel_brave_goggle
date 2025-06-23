@@ -1,5 +1,5 @@
 ! name: News from Israel
-! description: Refined news from Israel search results.
+! description: Refined search results for news from Israel.
 ! public: true
 ! author: murenti
 
@@ -11,12 +11,17 @@ $boost=4,site=al-monitor.com
 $boost=4,site=australianjewishnews.com
 $boost=4,site=clevelandjewishnews.com
 $boost=4,site=gov.il
+/en/departments/ministry_of_foreign_affairs/govil-landing-page^$boost=10,site=gov.il
+/en/departments/prime_ministers_office/govil-landing-page^$boost=10,site=gov.il
 $boost=4,site=haaretz.com
 $boost=10,site=idf.il
+/en^$boost=10,site=idf.il
 $boost=4,site=iltv.tv
 $boost=4,site=inunitywerebuild.com
 $boost=4,site=iranintl.com
+/en^$boost=10,site=iranintl.com
 $boost=10,site=israeldefense.co.il
+/en^$boost=10,site=israeldefense.co.il
 $boost=4,site=israel.embassy.gov.au
 $boost=4,site=israelhayom.com
 $boost=10,site=israelnationalnews.com
@@ -28,14 +33,19 @@ $boost=4,site=jewishjournal.com
 $boost=4,site=jewishvirtuallibrary.org
 $boost=4,site=jpost.com
 $boost=4,site=jpost.com
+/israel-news/defense-news/2025-06-21/live-updates-858458^$boost=10,site=jpost.com
 $boost=4,site=loveisrael.org
 $boost=4,site=mod.gov.il
+/en^$boost=10,site=mod.gov.il
 $boost=4,site=new.embassies.gov.il
+/australia/en^$boost=10,site=new.embassies.gov.il
 $boost=4,site=palwatch.org
 $boost=4,site=protocol.dfat.gov.au
+/Public/Missions/96^$boost=10,site=protocol.dfat.gov.au
 $boost=4,site=pulseofisrael.com
 $boost=4,site=seetheholyland.net
+/map-of-the-holy-land/^$boost=10,site=seetheholyland.net
 $boost=4,site=tbnisrael.com
-$boost=4,site=t.me
 $boost=4,site=thejewishindependent.com.au
 $boost=4,site=timesofisrael.com
+beholdisrael^$boost=10,site=x.com
