@@ -12,11 +12,11 @@ $boost=4,site=clevelandjewishnews.com
 $boost=4,site=gov.il/en/departments/ministry_of_foreign_affairs/govil-landing-page
 $boost=4,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
 $boost=4,site=haaretz.com
-$boost=4,site=idf.il/en/
+$boost,site=idf.il/en/
 $boost=4,site=iltv.tv
 $boost=4,site=inunitywerebuild.com
 $boost=4,site=iranintl.com/en
-$boost=4,site=israeldefense.co.il/en
+$boost,site=israeldefense.co.il/en
 $boost=4,site=israel.embassy.gov.au
 $boost=4,site=israelhayom.com
 $boost=4,site=israelnationalnews.com
