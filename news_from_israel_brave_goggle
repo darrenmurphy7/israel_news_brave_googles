@@ -3,8 +3,8 @@
 ! public: true
 ! author: Darren Murphy
 
-$boost=4,site=i24news.tv/en
-$boost=4,site=israel365news.com
+$boost=10,site=i24news.tv/en
+$boost=10,site=israel365news.com
 $boost=4,site=aish.com
 $boost=4,site=al-monitor.com
 $boost=4,site=australianjewishnews.com
@@ -12,14 +12,14 @@ $boost=4,site=clevelandjewishnews.com
 $boost=4,site=gov.il/en/departments/ministry_of_foreign_affairs/govil-landing-page
 $boost=4,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
 $boost=4,site=haaretz.com
-$boost,site=idf.il/en/
+$boost=10,site=idf.il/en/
 $boost=4,site=iltv.tv
 $boost=4,site=inunitywerebuild.com
 $boost=4,site=iranintl.com/en
-$boost,site=israeldefense.co.il/en
+$boost=10,site=israeldefense.co.il/en
 $boost=4,site=israel.embassy.gov.au
 $boost=4,site=israelhayom.com
-$boost=4,site=israelnationalnews.com
+$boost=10,site=israelnationalnews.com
 $boost=4,site=israelpalestine.liveuamap.com
 $boost=4,site=israeltoday.co.il
 $boost=4,site=israelunwired.com
