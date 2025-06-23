@@ -7,10 +7,10 @@
 $boost=4,site=www.i24news.tv/en
 $boost=4,site=www.jpost.com
 $boost=4,site=www.timesofisrael.com
-$boost=4,site=huffpost.com
-$boost=4,site=cnn.com
-$boost=4,site=care2.com
-$boost=4,site=canyoncountryzephyr.com
+$boost=4,site=pulseofisrael.com
+$boost=4,site=www.haaretz.com/israel-news
+$boost=4,site=www.israelnationalnews.com
+$boost=4,site=www.israelhayom.com
 /r/worldnews/$boost=3,site=reddit.com
 /r/qualitynews/$boost=3,site=reddit.com
 /r/politics/$boost=3,site=reddit.com
