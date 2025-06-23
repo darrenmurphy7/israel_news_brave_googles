@@ -9,7 +9,7 @@ $boost=4,site=haaretz.com
 $boost=4,site=israelhayom.com
 $boost=4,site=iltv.tv
 $boost=4,site=israelnationalnews.com
-$boost=4,site=jpost.com
+$boost=1,site=jpost.com
 $boost=4,site=pulseofisrael.com
 $boost=4,site=timesofisrael.com
-$boost=4,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
+$boost=1,site=gov.il/en/departments/prime_ministers_office/govil-landing-page
