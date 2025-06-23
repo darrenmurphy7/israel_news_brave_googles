@@ -1,7 +1,7 @@
 ! name: News from Israel
 ! description: Refined news from Israel search results.
 ! public: true
-! author: Darren Murphy
+! author: murenti
 
 $boost=10,site=i24news.tv/en
 $boost=10,site=israel365news.com
