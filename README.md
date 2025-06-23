@@ -1,2 +1,2 @@
-News from israel (brave_goggle)
-Licence = Unknown, still learning!
+Refined News from israel search results.
+Licence = Open
